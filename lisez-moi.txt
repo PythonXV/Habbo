@@ -1,0 +1,13 @@
+Bonjour à tous,
+
+Je vous remercie de chaque utilisation de la maintenance, j'espère qu'elle vous sera utile !
+
+Si vous avez besoin d'aide concernant la modification où autres a propos de la maintenance voici mon discord : Python#3171
+
+P.S : (Veuillez respecter mon copyright, merci !)
+
+
+Tutoriel :
+
+Si vous souhaitez modifier l'avancement de la barre de maintenance il faudra modifier le pourcentage de la balise "	<div style="width: 15%;height: 25px;border-radius: 3px;background: #a291fb"></div>" précisément dans le "width:15%"
+Et pour finir pour ajouter le lien de votre serveur discord dans la redirection lorsque qu'une personne clique sur l'image discord il suffit de modifier cette ligne "<a href="#" target="_blank"><img src="assets/images/discord.png" heiht="200" width="200"></a>" et précisément dans le <a href="#" le hashtag remplacer le par le lien de votre serveur discord puis sauvegarder votre fichier
