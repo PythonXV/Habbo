@@ -6,7 +6,6 @@ _(Voici une maintenance habbo inédite)_
 Vous trouverez donc une maintenance habbo inédite
 
 ## Versions 
-Version : 
 **Dernière version stable :** 2.1.0
 
 ## Auteurs
