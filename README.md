@@ -1,7 +1,7 @@
 # Maintenance Habbo
 _(Voici une maintenance habbo inédite)_
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](http://forthebadge.com)
 
 Vous trouverez donc une maintenance habbo inédite
 
